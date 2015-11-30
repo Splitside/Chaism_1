@@ -1,0 +1,219 @@
+@font-face {
+	
+font-family: 'chaism';
+
+	src:url('fonts/chaism.eot?pbjauv');
+
+	src:url('fonts/chaism.eot?#iefixpbjauv') format('embedded-opentype'),
+
+	url('fonts/chaism.ttf?pbjauv') format('truetype'),
+
+	url('fonts/chaism.woff?pbjauv') format('woff'),
+
+	url('fonts/chaism.svg?pbjauv#chaism') format('svg');
+
+
+	font-weight: normal;
+
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+
+		font-family: 'chaism';
+	
+		speak: none;
+	
+		font-style: normal;
+	
+		font-weight: normal;
+	
+		font-variant: normal;
+	
+		text-transform: none;
+	
+		line-height: 1;
+
+	/* Better Font Rendering =========== */
+	
+		-webkit-font-smoothing: antialiased;
+	
+		-moz-osx-font-smoothing: grayscale;
+
+	}
+
+
+.icon-e3e33:before {
+	
+	content: "\e600";
+
+}
+
+.icon-2:before {
+	
+	content: "\e601";
+
+}
+
+.icon-3:before {
+
+	content: "\e602";
+
+}
+
+.icon-4:before {
+	
+	content: "\e603";
+
+}
+
+.icon-basket-white:before {
+
+	content: "\e604";
+}
+
+.icon-chashka:before {
+	
+	content: "\e605";
+
+}
+
+.icon-icon_club:before {
+	
+content: "\e606";
+
+}
+
+.icon-icon_magazin:before {
+
+	content: "\e607";
+
+}
+
+.icon-icon_magazin_withe:before {
+
+	content: "\e608";
+
+}
+
+.icon-icon_samile_big:before {
+	
+	content: "\e609";
+
+}
+
+.icon-icon_samile_school:before {
+
+	content: "\e60a";
+
+}
+
+.icon-icon_samile_school_w:before {
+
+	content: "\e60b";
+
+}
+
+.icon-Icone_HoReCa:before {
+
+	content: "\e60c";
+
+}
+
+.icon-line-big:before {
+
+	content: "\e60d";
+
+}
+
+.icon-line-small_w:before {
+
+	content: "\e60e";
+
+}
+
+.icon-list:before {
+
+	content: "\e60f";
+
+}
+
+.icon-map:before {
+
+	content: "\e610";
+
+}
+
+.icon-rock:before {
+
+	content: "\e611";
+
+}
+
+.icon-ruki:before {
+
+	content: "\e612";
+
+}
+
+.icon-samile:before {
+
+	content: "\e613";
+
+}
+
+.icon-searching-white:before {
+
+	content: "\e614";
+
+}
+
+.icon-tit-icon .path1:before {
+	
+	content: "\e615";
+	
+	color: rgb(255, 255, 255);
+
+}
+
+.icon-tit-icon .path2:before {
+	
+	content: "\e616";
+	
+	margin-left: -1.67578125em;
+	
+	color: rgb(92, 102, 112);
+
+}
+
+.icon-tit-icon .path3:before {
+
+	content: "\e617";
+
+	margin-left: -1.67578125em;
+
+	color: rgb(92, 102, 112);
+
+}
+
+.icon-tit-icon .path4:before {
+
+	content: "\e618";
+
+	margin-left: -1.67578125em;
+
+	color: rgb(92, 102, 112);
+
+}
+
+.icon-tit-icon-white:before {
+
+	content: "\e619";
+
+}
+
+.icon-velik:before {
+
+	content: "\e61a";
+
+}
